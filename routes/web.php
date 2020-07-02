@@ -18,9 +18,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 
-if (env('APP_ENV') === 'production') {
-    URL::forceSchema('https');
-}
+
 
 Auth::routes();
 // Illuminate\Support\Str::limit
