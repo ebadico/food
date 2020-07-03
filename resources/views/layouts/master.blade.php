@@ -36,7 +36,7 @@
 </head>
 <body>
   <div id="app">
-    <nav class="navbar navbar-expand-lg bg-primary">
+    <nav class="navbar navbar-expand-lg bg-danger">
       <div class="container">
         <a class="navbar-brand" href="{{ url('/') }}">
           IRAN FOOD
