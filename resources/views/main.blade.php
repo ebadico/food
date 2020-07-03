@@ -16,12 +16,12 @@
     <div class="carousel-item active">
       <img class="d-block w-100" src="https://ghazaland.com/wp-content/uploads/2019/04/slider-shish-kabab-new.jpg" rel="nofollow" alt="First slide">
     </div>
-    <div class="carousel-item">
+    <!-- <div class="carousel-item">
       <img class="d-block w-100" src="https://kalleh.com/book/wp-content/uploads/sites/2/2017/11/Untitled-1_1-2.jpg" rel="nofollow" alt="Second slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://chishi.ir/wp-content/uploads/2020/05/kabab-koubide.jpg" rel="nofollow" alt="Third slide">
-    </div>
+    </div> -->
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
